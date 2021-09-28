@@ -1,0 +1,18 @@
+.container-nav{
+  position: fixed;
+  background-color: black;
+  box-shadow: 0px 8px 10px 0px rgba(19, 18, 18, 0.5)
+}
+
+.text-link {
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+
+.text-link:hover {
+  text-align: center;
+  padding: 8px 16px;
+  color: white;
+  border-bottom: 2px solid blue;
+}
